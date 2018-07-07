@@ -1,6 +1,6 @@
 #货比三家
 
-* [Github](https://github.com/liuxw888/hbsj/settings/keys) 
+* [Github](https://github.com/liuxw888/huoBiSanJiaShow/blob/master/README.md) 
 
 ### 项目简介
 
