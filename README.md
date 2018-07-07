@@ -35,17 +35,17 @@
     * Github : [github:www.github.com/engesi](github:www.github.com/engesi)
     * 
 ### 运行效果
-<img src="../../image/货比三家/1.jpg" width=250 height=400 />
-<img src="../../image/货比三家/2.jpg" width=250 height=400 />
-<img src="../../image/货比三家/3.jpg" width=250 height=400 />
+<img src="../image/货比三家/1.jpg" width=250 height=400 />
+<img src="../image/货比三家/2.jpg" width=250 height=400 />
+<img src="../image/货比三家/3.jpg" width=250 height=400 />
 
-<img src="../../image/货比三家/4.jpg" width=250 height=400 />
-<img src="../../image/货比三家/5.jpg" width=250 height=400 />
-<img src="../../image/货比三家/6.jpg" width=250 height=400 />
+<img src="../image/货比三家/4.jpg" width=250 height=400 />
+<img src="../image/货比三家/5.jpg" width=250 height=400 />
+<img src="../image/货比三家/6.jpg" width=250 height=400 />
 
-<img src="../../image/货比三家/7.jpg" width=250 height=400 />
-<img src="../../image/货比三家/8.jpg" width=250 height=400 />
-<img src="../../image/货比三家/9.jpg" width=250 height=400 />
+<img src="../image/货比三家/7.jpg" width=250 height=400 />
+<img src="../image/货比三家/8.jpg" width=250 height=400 />
+<img src="../image/货比三家/9.jpg" width=250 height=400 />
 
-<img src="../../image/货比三家/10.jpg" width=250 height=400 />
-<img src="../../image/货比三家/11.jpg" width=250 height=400 />
+<img src="../image/货比三家/10.jpg" width=250 height=400 />
+<img src="../image/货比三家/11.jpg" width=250 height=400 />
