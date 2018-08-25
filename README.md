@@ -12,7 +12,10 @@
 
 ### 项目成员
 
-* 邢永润 (项目经理，产品，UI设计，客户端代码开发) 
+* 刘向伟 (项目经理，客户端代码开发，测试)
+    * Email: <1433484140@qq.com>
+    * Github : [https://github.com/liuxw888](https://github.com/liuxw888)
+* 邢永润 (产品，UI设计，客户端代码开发) 
     * Email: <935443480@qq.com>
     * Github : [https://github.com/orgs/huobisanjia/people/xingyongrun](https://github.com/orgs/huobisanjia/people/xingyongrun)
 * 李睿达 (服务器代码开发，产品) 
@@ -21,9 +24,6 @@
 * 薛昊 (客户端代码开发，测试)
     * Email: <xh843948199@qq.com>
     * Github : [https://github.com/xuehaoritian](https://github.com/xuehaoritian)
-* 刘向伟 (客户端代码开发，测试)
-    * Email: <1433484140@qq.com>
-    * Github : [https://github.com/liuxw888](https://github.com/liuxw888)
 * 王子豪 (客户端代码开发，测试)
     * Email: <727720811@qq.com>
     * Github : [https://github.com/big-umbrella](https://github.com/big-umbrella)
